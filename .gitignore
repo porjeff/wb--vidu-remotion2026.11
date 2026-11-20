@@ -24,3 +24,7 @@ debug.log
 .cover_seg.mp4
 .cover_list.txt
 *.gif
+# 本地发布管理文件（不上传）
+RELEASE.md
+sync_from_dev.py
+upload.py
