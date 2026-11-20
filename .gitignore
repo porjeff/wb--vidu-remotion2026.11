@@ -1,0 +1,26 @@
+node_modules/
+__pycache__/
+*.pyc
+scripts/local.json
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+# 做片时的产物
+out/
+voice/
+sheets/
+films/
+_assets/
+fonts/
+*.mp4
+*.webm
+*.m4a
+*.wav
+# 临时
+debug.log
+.cover_tmp/
+.cover_seg.mp4
+.cover_list.txt
+*.gif
